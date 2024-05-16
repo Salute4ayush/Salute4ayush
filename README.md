@@ -10,9 +10,9 @@
 
 - 🤝 I’m looking for help with **improving resume, preparing for interviews, or mentoring.**
 
-- 👨‍💻 All of my projects are available at [https://ayush.linktodomain.com](https://ayush.linktodomain.com)
+- 👨‍💻 All of my projects are available at [ayush@portfolio.com](https://ayush.linktodomain.com)
 
-- 📝 I regularly write articles on [https://ayush.linktodomain.com/blog](https://ayush.linktodomain.com/blog)
+- 📝 I regularly write articles on [ayush.blog.com](https://ayush.linktodomain.com/blog)
 
 - 💬 Ask me about **HTML, CSS, Javascript, ReactJS**
 
