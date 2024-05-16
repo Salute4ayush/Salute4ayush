@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **codecatalyst25@gmail.com**
 
-- 📄 Know about my experiences [https://ayush.linktodomain.com](https://ayush.linktodomain.com)
+- 📄 Know about my experiences [ayush@profile.com](https://ayush.linktodomain.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
