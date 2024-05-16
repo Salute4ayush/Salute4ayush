@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Gupta</h1>
 <h3 align="center">A passionate frontend developer, to Crafting Seamless Web Experiences with Code and Creativity.</h3>
-<img align="right" alt="coding" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salute4ayush&label=Profile%20views&color=0e75b6&style=flat" alt="salute4ayush" /> </p>
 
