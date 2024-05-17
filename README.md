@@ -1,7 +1,7 @@
 ![git_log.gif](https://github.com/Salute4ayush/Salute4ayush/blob/687706ec739a5dc5faebb1e7eea52fe00257bfd9/git_log.gif)
 <h1 align="center">Hi 👋, I'm Ayush Kumar Gupta</h1>
 <h3 align="center">A passionate frontend developer, to Crafting Seamless Web Experiences with Code and Creativity.</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg">
+<img align="right" alt="coding" width="400" src="https://github.com/Salute4ayush/Salute4ayush/blob/41b7f7b966e607c05c8c946efc86804e0ddb2c54/p1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salute4ayush&label=Profile%20views&color=0e75b6&style=flat" alt="salute4ayush" /> </p>
 
 - 🌱 I’m currently learning **Node JS, MongoDB, Express JS, React JS**
