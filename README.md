@@ -6,19 +6,19 @@
 
 - 🌱 I’m currently learning **Node JS, MongoDB, Express JS, React JS**
 
-- 👯 I am looking for an Internship in a **Frontend Developer role.**
+- 👯 I am looking for an Internship in **Frontend Developer Role.**
 
 - 🤝 I’m looking for help with **improving resume, preparing for interviews, or mentoring.**
 
-- 👨‍💻 All of my projects are available at [https://ayush.linktodomain.com](https://ayush.linktodomain.com)
+- 👨‍💻 All of my projects are available at [ayush@project.com](https://ayush.linktodomain.com)
 
-- 📝 I regularly write articles on [https://ayush.linktodomain.com/blog](https://ayush.linktodomain.com/blog)
+- 📝 I regularly write articles on [ayush@blog.com](https://ayush.linktodomain.com/blog)
 
 - 💬 Ask me about **HTML, CSS, Javascript, ReactJS**
 
 - 📫 How to reach me **codecatalyst25@gmail.com**
 
-- 📄 Know about my experiences [https://ayush.linktodomain.com](https://ayush.linktodomain.com)
+- 📄 Know about my experiences [ayush@profile.com](https://ayush.linktodomain.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
