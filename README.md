@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **improving resume, preparing for interviews, or mentoring.**
 
-- 👨‍💻 All of my projects are available at [ayush@project.com](https://ayush.linktodomain.com)
+- 👨‍💻 All of my projects are available at [ayush@project.com]([https://ayush.linktodomain.com/slider3])
 
 - 📝 I regularly write articles on [ayush@blog.com](https://ayush.linktodomain.com/blog)
 
